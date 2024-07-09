@@ -12,7 +12,7 @@ In this project, I will train a model based on historical S&P 500 stock market i
 # Frameworks/Tools utilized
 
 * JuptyerLab
-* JuptyerLab
+* Python 3.8+
 * Python Packages
   * pandas
   * yfinance
