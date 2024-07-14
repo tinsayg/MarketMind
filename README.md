@@ -4,10 +4,10 @@ In this project, I will train a model based on historical S&P 500 stock market i
 
 **Project Steps**
 
-* Download past SP500 data dating back to 1990 using the yfinance package
-* Create an initial machine learning model and estimate accuracy
-* Build a backtesting engine to more accurately measure accuracy
-* Improve the accuracy of the model
+* Download past SP500 data dating back to 1990 using the yfinance package.
+* Create an initial machine learning model and estimate accuracy.
+* Build a backtesting engine to more accurately measure accuracy.
+* Improve the accuracy of the model.
 
 # Frameworks/Tools utilized
 
